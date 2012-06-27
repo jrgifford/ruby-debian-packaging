@@ -1,0 +1,15 @@
+Source: factero
+Section: devel
+Priority: extra
+Maintainer: James Gifford <james@jamesrgifford.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: https://github.com/jrgifford/factero
+#Vcs-Git: git://git.debian.org/collab-maint/factero.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/factero.git;a=summary
+
+Package: factero
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ruby1.9.1-full, libcairo2-dev, libgtk2.0-dev, xclip, xsel
+Description: Get your system information quickly and easily!
+  Read the short description bro.

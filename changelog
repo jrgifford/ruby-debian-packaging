@@ -1,0 +1,5 @@
+factero (1.0-1) precise; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- James Gifford <james@jamesrgifford.com>  Tue, 26 Jun 2012 21:09:03 -0400
